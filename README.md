@@ -27,13 +27,13 @@
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
 ### I am a PhD student at University of Cagliari, Italy
-<!-- - 🔭 I’m currently working on my Portfolio Website 
-- 🌱 I’m currently learning ReactJS and Node JS
+ - 🔭 I’m currently working on my Portfolio Website 
+- 🌱 I love videogames
 - 💬 Ask me about anything, I am happy to help :smile:
 - 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: My dog's name is Clara -->
+- ⚡ Fun fact: My dog's name is Clara 
 
- ```python
+<!--  ```python
  class WhoAmI:
  	user = 'Vittoria Frau'
 current_edu = "University od Cagliari"
@@ -54,7 +54,7 @@ current_edu = "University od Cagliari"
 		Teaching()
 		# Assume 10 more awesome ambitions here  ;)
 	
- ```
+ ``` -->
 <br>
 
 ### Languages and Tools: 
@@ -82,6 +82,17 @@ current_edu = "University od Cagliari"
 
 
 ### Github Stats
+
+<p align="center">
+    <a href="https://github.com/VittoriaFrau/github-readme-stats"><img alt="Vittoria's Github Stats" src="https://github-readme-stats.vercel.app/api?username=VittoriaFrau&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VittoriaFrau&show_icons=true&locale=en&layout=compact&theme=algolia" alt="VittoriaFrau" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
   <img align="left" src="https://github-readme-stats.vittoriafrau.vercel.app/api?username=VittoriaFrau&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Vittoria's Github Stats" width="60%">
   
