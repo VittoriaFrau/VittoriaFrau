@@ -25,6 +25,7 @@
 <br>
 
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+
 ### I am a PhD student at University of Cagliari, Italy
 <!-- - 🔭 I’m currently working on my Portfolio Website 
 - 🌱 I’m currently learning ReactJS and Node JS
@@ -55,7 +56,7 @@ current_edu = "University od Cagliari"
 	
  ```
 <br>
-<!--
+
 ### Languages and Tools: 
 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -73,36 +74,18 @@ current_edu = "University od Cagliari"
 <img align="left" alt="python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="cpp" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="csharp" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
--->
-<br>
-<br>
-<br>
-<br>
 
-<!--
-<details>
-  <summary>:zap: Github Stats</summary>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VittoriaFrau&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Vittoria's Github Stats">
-</p>
 <br>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VittoriaFrau&show_icons=true&hide_border=true&theme=radical">
-</p>
-</details> -->
+<br>
+<br>
+<br>
 
 
 ### Github Stats
 
-  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Sumanth-Talluri&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sumanth's Github Stats" width="60%">
+  <img align="left" src="https://github-readme-stats.vittoriafrau.vercel.app/api?username=VittoriaFrau&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Vittoria's Github Stats" width="60%">
   
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
-
-
-
-<!-- stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VittoriaFrau&show_icons=true&hide_border=true&theme=dark)
-![Sumanth's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VittoriaFrau&show_icons=true&hide_border=true")-->
+<img src="https://github-readme-stats.vittoriafrau.vercel.app/api/top-langs/?username=VittoriaFrau&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Vittoria's Top Languages">
 
 <br>
 
