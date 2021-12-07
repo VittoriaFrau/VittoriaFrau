@@ -24,15 +24,14 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
 ### I am a PhD student at University of Cagliari, Italy
 - 🔭 I’m currently working on my Portfolio Website :grin:
 - 🌱 I’m currently learning ReactJS and Node JS
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
+- ⚡ Fun fact: My dog name is Clara
 
 <br>
 
