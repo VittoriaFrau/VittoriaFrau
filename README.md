@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Sumanth-Talluri" />
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/VittoriaFrau" />
 </p>
 
 <p align="center">
