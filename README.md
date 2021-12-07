@@ -2,7 +2,7 @@
 <img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
  <p/>
  <p>
-  <h1 align="center"><b><Hello world />, I'm Vittoria 👋</b></h1>
+  <h1 align="center"><b>< Hello world/ >, I'm Vittoria 👋</b></h1>
 </p>
 
 <p>
