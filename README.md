@@ -27,12 +27,34 @@
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
 ### I am a PhD student at University of Cagliari, Italy
-- 🔭 I’m currently working on my Portfolio Website :grin:
+- 🔭 I’m currently working on my Portfolio Website 
 - 🌱 I’m currently learning ReactJS and Node JS
 - 💬 Ask me about anything, I am happy to help :smile:
 - 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: My dog name is Clara
+- ⚡ Fun fact: My dog's name is Clara
 
+ ```python
+ class WhoAmI:
+ 	user = 'Vittoria Frau'
+	current_edu = "University od Cagliari"
+	hobbies = [
+				'Watching TV shows',
+				'Running',
+				'Reading Fantasy Novels'
+				'Video games',
+    'Travel'
+			]
+	
+	def getCity():
+		return Cagliari_Italy()
+	
+	def Ambitions():
+		LearnJapanese()
+		TravelAroundTheWorld()
+		Teaching()
+		# Assume 10 more awesome ambitions here  ;)
+	
+ ```
 <br>
 <!--
 ### Languages and Tools: 
