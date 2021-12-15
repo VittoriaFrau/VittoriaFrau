@@ -79,7 +79,7 @@ current_edu = "University od Cagliari"
 <br>
 <br>
 
-<!-- 
+
 ### Github Stats
 
 <p align="center">
@@ -90,7 +90,7 @@ current_edu = "University od Cagliari"
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-  -->
+ 
 
 
 Last Edited on: 07/12/2021
