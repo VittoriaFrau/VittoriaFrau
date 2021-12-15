@@ -83,9 +83,9 @@ current_edu = "University od Cagliari"
 ### Github Stats
 
 <p align="center">
-    <a href="https://github.com/VittoriaFrau/github-readme-stats"><img alt="Vittoria's Github Stats" src="https://github-readme-stats.vercel.app/api?username=VittoriaFrau&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+  <!--   <a href="https://github.com/VittoriaFrau/github-readme-stats"><img alt="Vittoria's Github Stats" src="https://github-readme-stats.vercel.app/api?username=VittoriaFrau&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
-  &nbsp;
+  &nbsp; -->
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VittoriaFrau&show_icons=true&locale=en&layout=compact&theme=algolia" alt="VittoriaFrau" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
