@@ -22,7 +22,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
-### I am a PhD student at University of Cagliari, Italy
+### I am a Research assistant at University of Aarhus, Denmark
  - 🔭 I’m currently working on my Portfolio Website 
 - 🌱 I love videogames
 - 💬 Ask me about anything, I am happy to help :smile:
